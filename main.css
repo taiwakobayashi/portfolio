@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+} 
+
+body {
+    font-family: "游ゴシック Medium", "Yu Gothic Medium", "游ゴシック体", "YuGothic", "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", "Meiryo", "verdana", sans-serif;
+}
+
+/*メインビジュアルのサイズ*/
+.cover{
+    height: 500px;
+    background: url(apex00.jpg);
+    background-size: cover;
+}
+
+/* プロフィール要素のサイズ */
+#profile-list{
+    width: 300px;
+}
+
+/* スキル要素のサイズ */
+#skill-list{
+    width: 300px;
+}
